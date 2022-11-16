@@ -1,0 +1,44 @@
+body{
+	margin: 0 auto;
+	background-color: #FF884B;
+	background-size: cover;
+}
+.container{
+
+}
+.selection{
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+}
+.selection:hover{
+	color: #FF884B;
+}
+.sign-up-btn{
+	background-color: #FF884B;
+	background-size: contain;
+}
+.product-container{
+	justify-content: center;
+	 display: inline-flex;
+  flex-wrap: wrap;
+    gap: 3em;
+
+}
+img{
+	margin: 0 auto;
+	width: 100%;
+	height: 90%;
+}
+.buy-bttn{
+	    background-color: #F49D1A;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
